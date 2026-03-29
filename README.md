@@ -1,8 +1,8 @@
 # playwright-ui-java
 
-> **GitHub repo description:** Enterprise-grade Playwright UI test framework — Java 21, Maven, JUnit 5, AssertJ, Log4j2, Allure, Page Object Model targeting OrangeHRM.
+Playwright UI test framework — Java 21, Maven, JUnit 5, AssertJ, Log4j2, Allure, Page Object Model targeting OrangeHRM.
 
-Production-ready Web UI automation framework using Microsoft Playwright for Java with JUnit 5, demonstrating enterprise patterns: Page Object Model, builder-based test data, Log4j2 structured logging, parallel execution, and Allure reporting with rich failure evidence.
+Web UI automation framework using Microsoft Playwright for Java with JUnit 5, demonstrating enterprise patterns: Page Object Model, builder-based test data, Log4j2 structured logging, parallel execution, and Allure reporting with rich failure evidence.
 
 ## Tech Stack
 
